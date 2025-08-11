@@ -21,4 +21,4 @@ Each day's weather information is shown clearly, and the UI is designed to be fu
 ---
 
 ## 🌐 Live Demo  
-👉 <a href="https://weatherapp-g.netlify.app" target="_blank">View Live</a>  
+👉 <a href="https://globl-weather.netlify.app" target="_blank">View Live</a>  
